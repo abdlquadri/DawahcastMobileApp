@@ -37,6 +37,6 @@ Now that you have install dependencies, You can then run with web browser (prefe
 
 `ionic serve`
 
-Follw the generated url to view the running instance from you broswer.
+Follw the generated url to view the running instance from you broswer like the screenshot above.
 
 `http://localhost:8100`
