@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list  >
+    <ion-item text-wrap *ngFor="let item of newsData" >
+    <ion-thumbnail item-left>
+      <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-1/10492126_714033605300318_584561593856854476_n.png?oh=9902d4010902551a8e9f274bad05b9f0&oe=59C14344">
+    </ion-thumbnail>
+      <p>{{item.title}}</p>
+      <p>{{item.date}}</p>
+     <button ion-button clear item-right (click)="launchSecondPage()" >View</button>
+    </ion-item>
+  </ion-list>
+</ion-content>
