@@ -1,4 +1,6 @@
-#### Installation
+# Dawahcast Mobile App
+
+Dawahnigeria Mobile App
 
 #### Prerequisites
 
@@ -10,7 +12,9 @@
 
 #Ionic
 
+## Lecture endpoint 
 
+`httpp://dawahnigeria.com/dawahcast/api/lec-web-service2`
 
 ### git clone this repository and cd to the project directory
 
