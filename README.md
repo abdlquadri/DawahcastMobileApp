@@ -21,7 +21,7 @@ Install dependencies
 
 
 # install dependencies
-run npm install
+run `npm install`
 
 This could takes several minutes.
 
