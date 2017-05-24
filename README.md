@@ -2,7 +2,7 @@
 
 Dawahnigeria Mobile App
 
-![Alt text](/screenshot.png?raw=true "Optional Title")
+![Alt text](/screenshot.png?raw=true "Homepage")
 
 #### Prerequisites
 
@@ -37,6 +37,8 @@ Now that you have install dependencies, You can then run with web browser (prefe
 
 `ionic serve`
 
-Follw the generated url to view the running instance from you broswer like the screenshot above.
+Follw the generated url to view the running instance from you broswer.
 
 `http://localhost:8100`
+
+
