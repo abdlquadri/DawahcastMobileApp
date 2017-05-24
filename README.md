@@ -29,4 +29,4 @@ Before running
 
 Now that you have install dependencies, You can then run with web browser (preferablely Google Chrome) with
 
-ionic serve
+`ionic serve`
