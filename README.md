@@ -2,6 +2,8 @@
 
 Dawahnigeria Mobile App
 
+![Alt text](/dnmobile.png?raw=true "Optional Title")
+
 #### Prerequisites
 
 #Git
