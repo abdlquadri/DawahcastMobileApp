@@ -24,15 +24,12 @@ Open the project folder
 
 $ `cd DawahcastMobileApp`
 
-Install dependencies
 
 
 # install dependencies
 run `npm install`
 
 This could takes several minutes.
-
-Before running
 
 Now that you have install dependencies, You can then run with web browser (preferablely Google Chrome) with
 
