@@ -2,10 +2,13 @@
 
 #### Prerequisites
 
-Git
-NodeJS (>= 4)
-NPM (>= 3)
-Ionic
+#Git
+
+#NodeJS (>= 4)
+
+#NPM (>= 3)
+
+#Ionic
 
 
 
@@ -30,3 +33,7 @@ Before running
 Now that you have install dependencies, You can then run with web browser (preferablely Google Chrome) with
 
 `ionic serve`
+
+Follw the generated url to view the running instance from you broswer.
+
+`http://localhost:8100`
