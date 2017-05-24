@@ -1,12 +1,32 @@
-#### To run this in ionic CLI 
-### git clone this repository and 
+#### Installation
 
-For example git clone `https://github.com/Yusadolat/dnmobile.git`
+#### Prerequisites
 
-Take the name after `dnmobile`, and that is the name of the repo to be used when using the `ionic start` to test with live server.
+Git
+NodeJS (>= 4)
+NPM (>= 3)
+Ionic
 
 
 
+### git clone this repository and cd to the project directory
+
+For example $ git clone `https://github.com/dawahnigeria/DawahcastMobileApp.git`
+
+Open the project folder
+
+$ `cd DawahcastMobileApp`
+
+Install dependencies
 
 
-# dnmobile
+# install dependencies
+run npm install
+
+This could takes several minutes.
+
+Before running
+
+Now that you have install dependencies, You can then run with web browser (preferablely Google Chrome) with
+
+ionic serve
